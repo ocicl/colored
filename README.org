@@ -2,9 +2,8 @@
 
 A library for dealing with colours and colour spaces
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/colored.git   |
-| commit  | db92d8f  |
-| systems | colored |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Shinmera/colored.git |
+| commit  | 1a15403                                     |
+| systems | colored                                     |
+|---------+---------------------------------------------|
