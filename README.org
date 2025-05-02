@@ -4,6 +4,6 @@ A library for dealing with colours and colour spaces
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/colored.git |
-| commit  | dc8f6c8                                     |
+| commit  | fe1f803                                     |
 | systems | colored                                     |
 |---------+---------------------------------------------|
