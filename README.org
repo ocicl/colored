@@ -4,6 +4,6 @@ A library for dealing with colours and colour spaces
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/chroma.git |
-| commit  | 0000000                                      |
+| commit  | 04c71f6                                      |
 | systems | chroma                                       |
 |---------+----------------------------------------------|
