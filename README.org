@@ -7,3 +7,4 @@ A library for dealing with colours and colour spaces
 | commit  | 04c71f6                                      |
 | systems | chroma                                       |
 |---------+----------------------------------------------|
+ 
